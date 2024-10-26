@@ -1,0 +1,7 @@
+# Ignore temporary files
+tmp/
+
+node_modules
+npm-debug.log
+Dockerfile
+docker-compose.yml
